@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-mongodb-crud-with-joi-vallidation",
+  "version": "1.0.0",
+  "description": "Basic crud operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shifal/joi-validation-usring-crud-and-MEN.git"
+  },
+  "author": "Syed Shifal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shifal/joi-validation-usring-crud-and-MEN/issues"
+  },
+  "homepage": "https://github.com/Shifal/joi-validation-usring-crud-and-MEN#readme",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1"
+  }
+}
